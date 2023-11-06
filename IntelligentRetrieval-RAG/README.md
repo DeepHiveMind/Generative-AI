@@ -1,4 +1,4 @@
-# Building RAG-based LLM Applications for Production
+# Building RAG-based LLM Applications
 
 Retrieval Augmented Generation (RAG) is a new generative paradigm that fuses Large Language Models and traditional Information Retrieval (IR) techniques, enabling seamless AI interactions leveraging your custom data.​
 
