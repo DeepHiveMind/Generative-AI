@@ -1,4 +1,4 @@
-# Building MultiModal NLP Text Processing 
+# Building MultiModal Text Processing using GenAI model
 
 Multimodal NLP involves the combination of different types of information, such as text, speech, images, and videos, to enhance natural language processing tasks. This allows machines to better comprehend human communication by taking into account additional contextual information beyond just text. ​
 
